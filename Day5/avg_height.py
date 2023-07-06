@@ -13,4 +13,4 @@ for height in student_heights:
     h_sum += height
     s_sum+=1
 avg_height = round(h_sum/s_sum)    
-print("Average height is : {}".format(avg_height))
+print("Average height is :{}".format(avg_height))
